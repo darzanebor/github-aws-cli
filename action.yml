@@ -1,5 +1,5 @@
 name: 'AWS CLI'
-description: 'GitHub Action for AWS CLI with kubectl, helm, helm-push plugin'
+description: 'GitHub Action for AWS CLI'
 author: darzanebor
 branding:
   icon: 'cloud'
