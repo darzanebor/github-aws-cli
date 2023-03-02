@@ -1,4 +1,3 @@
-
 FROM alpine:3.16 as builder
 ENV PATH=$PATH:/usr/local/go/bin \
     GOLANG_VERSION=${GOLANG_VERSION:-1.17.13}
